@@ -1,0 +1,6 @@
+Test Cases
+Validar campos obrigatorios
+ - Esse caso valida se os campos obrigatórios são exigidos ao realizar um cadastro;
+
+Validar cadatro usuario
+ - Esse caso valida se com o preenchimento de campos obrigatórios o cadastro é concluido.
